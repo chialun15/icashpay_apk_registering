@@ -30,8 +30,8 @@ if platform.system() == "Darwin":
 # 設定區塊
 # =================================================================
 # --- Slack Bot 設定 (請務必填寫) ---
-SLACK_BOT_TOKEN = "xoxb-5579760060647-9146264694869-JqJHSXtaDgaAN6R47KDUALuN"  # 請填入您的 xoxb- 開頭的金鑰
-SLACK_CHANNEL_ID = "C07546HBDDX"  # 請填入您的 C 開頭的頻道 ID
+SLACK_BOT_TOKEN = "xoxb-XXX-XXX-XXX"  # 請填入您的 xoxb- 開頭的金鑰
+SLACK_CHANNEL_ID = "C0XXXXX"  # 請填入您的 C 開頭的頻道 ID
 
 # --- Appium 設定 ---
 CAPABILITIES = {
